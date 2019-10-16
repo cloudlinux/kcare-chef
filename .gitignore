@@ -1,0 +1,15 @@
+# Created by https://www.gitignore.io/api/chefcookbook
+# Edit at https://www.gitignore.io/?templates=chefcookbook
+
+### ChefCookbook ###
+.vagrant
+/cookbooks
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
+
+# End of https://www.gitignore.io/api/chefcookbook
