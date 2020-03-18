@@ -21,3 +21,9 @@ Minor fixes
 
 - readme updated
 - simple tests added
+
+# 0.1.3
+
+Minor fixes
+
+- stub CONTRIBUTING.md, TESTING.md added
