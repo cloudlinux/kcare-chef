@@ -27,3 +27,9 @@ Minor fixes
 Minor fixes
 
 - stub CONTRIBUTING.md, TESTING.md added
+
+# 0.1.4
+
+Minor fixes
+
+- more verbose CONTRIBUTING.md, TESTING.md
