@@ -33,3 +33,10 @@ Minor fixes
 Minor fixes
 
 - more verbose CONTRIBUTING.md, TESTING.md
+
+# 0.1.5
+
+Additional features
+
+- scanner_interface added
+- libcare added
