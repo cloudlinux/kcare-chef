@@ -40,3 +40,9 @@ Additional features
 
 - scanner_interface added
 - libcare added
+
+# 0.1.6
+
+Minor fixes
+
+- cookstyle

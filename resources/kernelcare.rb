@@ -46,13 +46,12 @@ action :install do
   end
 
   if new_resource.lib_auto_update
-  then
     execute '/usr/bin/libcare-cron init' do
       creates '/etc/cron.d/libcare-cron'
     end
   else
     execute '/usr/bin/libcare-cron disable' do
-      only_if { ::File.exists? '/etc/cron.d/libcare-cron' }
+      only_if { ::File.exist? '/etc/cron.d/libcare-cron' }
     end
   end
 
