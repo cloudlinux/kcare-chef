@@ -46,3 +46,9 @@ Additional features
 Minor fixes
 
 - cookstyle
+
+# 0.1.7
+
+Minor fixes
+
+- cookbook quality metrics
